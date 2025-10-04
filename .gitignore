@@ -1,0 +1,18 @@
+# Eclipse IDE
+
+.classpath
+
+.project
+
+.settings/
+
+
+# Compiled class files
+
+bin/
+
+
+# Others
+
+*.log
+
