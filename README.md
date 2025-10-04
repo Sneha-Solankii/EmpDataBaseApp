@@ -1,4 +1,4 @@
-# EmpDatabaseApp
+## EmpDatabaseApp
 ## Overview
 EmpDatabaseApp is a simple Java-based application to manage employee data with MySQL as the database backend.  
 It allows storing employee details like name, job, salary, and department.
